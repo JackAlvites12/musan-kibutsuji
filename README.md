@@ -1,2 +1,3 @@
 # Hola mundo! 
-## Somos lo que somos, somos lo que parecemos.
+## Me actualicé xd
+## No hay cambios importantes.
