@@ -3,3 +3,7 @@ function randomPick( pick: number ){
   // Lógica de prueba
   // Retorno de prueba
 }
+
+function randomName( name: string ){
+  // Logic
+}
