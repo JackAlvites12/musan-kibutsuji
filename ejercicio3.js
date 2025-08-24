@@ -1,3 +1,3 @@
 function login( username, password ){
-    return username + password
+    return '0'
 }
