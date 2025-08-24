@@ -7,3 +7,7 @@ function randomPick( pick: number ){
 function randomName( name: string ){
   // Logic
 }
+
+function findNameById( id: string ){
+  // Logic
+}
